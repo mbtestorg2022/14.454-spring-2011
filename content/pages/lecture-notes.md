@@ -49,7 +49,7 @@ The credit crunch ([PDF]({{< baseurl >}}/resources/mit14_454s11_lec03))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Runs, panics, and contagion (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_lec04))
+Runs, panics, and contagion ([PDF]({{< baseurl >}}/resources/mit14_454s11_lec04))
 {{< tdclose >}}
 
 {{< trclose >}}

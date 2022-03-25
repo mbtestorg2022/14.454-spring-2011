@@ -50,9 +50,9 @@ Collateral and amplification
 
 Bernanke B., and M. Gertler. "Agency Costs, Net Worth, and Business Fluctuations." _American Economic Review_ 79, no. 1 (1989): 14-31.
 
-Kiyotaki, Nobuhiro, and John Moore. "Credit Cycles." _Journal of Political Economy_ 105, no. 2 (1997): 211-248. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 6.4MB](http://farfe.org/Paper_KiyotakiMoore_jpe97.pdf))
+Kiyotaki, Nobuhiro, and John Moore. "Credit Cycles." _Journal of Political Economy_ 105, no. 2 (1997): 211-248. ([PDF - 6.4MB](http://farfe.org/Paper_KiyotakiMoore_jpe97.pdf))
 
-Brunnermeier, Markus, and Yuliy Sannikov. "A Macroeconomics Model with a Financial Sector." Princeton working paper, 2011. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB](http://www.princeton.edu/~markus/research/papers/macro_finance.pdf))
+Brunnermeier, Markus, and Yuliy Sannikov. "A Macroeconomics Model with a Financial Sector." Princeton working paper, 2011. ([PDF - 2.1MB](http://www.princeton.edu/~markus/research/papers/macro_finance.pdf))
 
 Greenwald, Bruce, and Joseph Stiglitz. "Financial Market Imperfections and Business Cycles." _Quarterly Journal of Economics_ 108, no. 1 (1993): 77-114.
 
@@ -74,9 +74,9 @@ The credit crunch
 
 Bernanke, B., and A. Blinder. "[Credit, Money and Aggregate Demand](http://www.nber.org/papers/w2534)." _American Economic Review_ 78, no. 2 (1988): 435-439.
 
-Holmstrom, Bengt, and Jean Tirole. "Financial Intermediation, Loanable Funds, and the Real Sector." _Quarterly Journal of Economics_ 112, no. 3 (1997): 663-691. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5MB](http://www.utdallas.edu/~nina.baranchuk/Fin7310/papers/HolmstromTirole1997.pdf))
+Holmstrom, Bengt, and Jean Tirole. "Financial Intermediation, Loanable Funds, and the Real Sector." _Quarterly Journal of Economics_ 112, no. 3 (1997): 663-691. ([PDF - 2.5MB](http://www.utdallas.edu/~nina.baranchuk/Fin7310/papers/HolmstromTirole1997.pdf))
 
-Kashyap, Anil, and Jeremy Stein. "[Monetary Policy and Bank Lending](http://www.nber.org/papers/w4317)." NBER Working Paper No. 4317, 1994. Chapter 7 in _Monetary Policy_. Edited by N. Gregory Mankiw. University of Chicago Press, 1997. ISBN: 9780226503097. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](http://www.mit.edu/~jcstein/Monetary.pdf))
+Kashyap, Anil, and Jeremy Stein. "[Monetary Policy and Bank Lending](http://www.nber.org/papers/w4317)." NBER Working Paper No. 4317, 1994. Chapter 7 in _Monetary Policy_. Edited by N. Gregory Mankiw. University of Chicago Press, 1997. ISBN: 9780226503097. ([PDF - 1.8MB](http://www.mit.edu/~jcstein/Monetary.pdf))
 
 
 {{< tdclose >}}
@@ -92,7 +92,7 @@ Runs, panics, and contagion
 {{< tdopen >}}
 
 
-Diamond, Douglas W., and Philip H. Dybvig. "Bank Runs, Deposit Insurance, and Liquidity." _Journal of Political Economy_ 91, no. 3 (1983): 401-419. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.minneapolisfed.org/research/QR/QR2412.pdf))
+Diamond, Douglas W., and Philip H. Dybvig. "Bank Runs, Deposit Insurance, and Liquidity." _Journal of Political Economy_ 91, no. 3 (1983): 401-419. ([PDF](http://www.minneapolisfed.org/research/QR/QR2412.pdf))
 
 Tirole, Jean. "Consumer Liquidity Demand." Chapter 12 in _The Theory of Corporate Finance_. Princeton University Press, 2005. ISBN: 9780691125565.
 
@@ -104,7 +104,7 @@ Allen, Franklin, and Douglas Gale. "Financial Contagion." _Journal of Political 
 
 Adrian, Tobias, and Hyun Song Shin. "[Liquidity and Financial Contagion](https://www.researchgate.net/publication/227369855_Liquidity_and_Financial_Contagion)." _Banque de France Financial Stability Review,_ no. 11 (2008): 1-7.
 
-Caballero, Ricardo, and Alp Simsek. "[Fire Sales in a Model of Complexity](http://www.nber.org/papers/w15479)." NBER Working Paper No. 15479, 2009. MIT Working Paper, March 2011. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.federalreserve.gov/events/conferences/irfmp2010/papers/4736.pdf))
+Caballero, Ricardo, and Alp Simsek. "[Fire Sales in a Model of Complexity](http://www.nber.org/papers/w15479)." NBER Working Paper No. 15479, 2009. MIT Working Paper, March 2011. ([PDF](http://www.federalreserve.gov/events/conferences/irfmp2010/papers/4736.pdf))
 
 Brunnermeir, Markus, and Lasse Heje Pedersen. "[Market Liquidity and Funding Liquidity](http://www.nber.org/papers/w12939)." NBER Working Paper No. 12939, 2007.
 
@@ -124,11 +124,11 @@ Bubbles
 
 Tirole, Jean. "Asset Bubbles and Overlapping Generations." _Econometrica_ 53, no. 6 (1985): 1499-1528.
 
-Martin, Alberto, and Jaume Ventura. "Theoretical Notes on Bubbles and the Current Crisis." _IMF Economic Review_ 59 (2011): 6-40. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF – 1.5MB](https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1348.pdf?00af1bc1219da6c08e2cdbc1979712cc))
+Martin, Alberto, and Jaume Ventura. "Theoretical Notes on Bubbles and the Current Crisis." _IMF Economic Review_ 59 (2011): 6-40. ([PDF – 1.5MB](https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1348.pdf?00af1bc1219da6c08e2cdbc1979712cc))
 
-Kocherlakota, Naranaya. "Bursting Bubbles: Consequences and Cures." Paper presented at the Macroeconomic and Policy Challenges following Financial Meltdowns Conference, International Monetary Fund. Washington DC, April 3, 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.imf.org/external/np/seminars/eng/2009/macro/pdf/nk.pdf))
+Kocherlakota, Naranaya. "Bursting Bubbles: Consequences and Cures." Paper presented at the Macroeconomic and Policy Challenges following Financial Meltdowns Conference, International Monetary Fund. Washington DC, April 3, 2009. ([PDF](http://www.imf.org/external/np/seminars/eng/2009/macro/pdf/nk.pdf))
 
-Farhi, Emmanuel, and Jean Tirole. "Bubbly Liquidity." Harvard draft paper, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://scholar.harvard.edu/files/farhi/files/bubbly_liquidity.pdf))
+Farhi, Emmanuel, and Jean Tirole. "Bubbly Liquidity." Harvard draft paper, 2010. ([PDF](https://scholar.harvard.edu/files/farhi/files/bubbly_liquidity.pdf))
 
 Allen, Franklin, and Douglas Gale. "Bubbles and Crises." _Economic Journal_ 110 (2000): 236-255.
 
@@ -152,17 +152,17 @@ Capital flows and sudden stops
 
 Caballero, Ricardo J., and Arvind Krishnamurthy. "Bubbles and Capital Flow Volatility: Causes and Risk Management." _Journal of Monetary Economics_ 53, no. 1 (2006): 35-53.
 
-Blanchard, Olivier, Francesco Giavazzi, and Filipa Sa. "International Investors, the U.S. Current Account, and the Dollar." _Brookings Papers on Economic Activity_ 1 (2005): 1-49. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.brookings.edu/wp-content/uploads/2005/01/2005a_bpea_blanchard.pdf))
+Blanchard, Olivier, Francesco Giavazzi, and Filipa Sa. "International Investors, the U.S. Current Account, and the Dollar." _Brookings Papers on Economic Activity_ 1 (2005): 1-49. ([PDF](https://www.brookings.edu/wp-content/uploads/2005/01/2005a_bpea_blanchard.pdf))
 
-Caballero, Ricardo J., Emmanuel Farhi, and Pierre-Olivier Gourinchas. "An Equilibrium Model of Global Imbalances and Low Interest Rates." _American Economic Review_ (2007). Forthcoming. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://economics.mit.edu/files/2733))
+Caballero, Ricardo J., Emmanuel Farhi, and Pierre-Olivier Gourinchas. "An Equilibrium Model of Global Imbalances and Low Interest Rates." _American Economic Review_ (2007). Forthcoming. ([PDF](https://economics.mit.edu/files/2733))
 
-Caballero, Ricardo J., and Arvind Krishnamurthy. "Global Imbalances and Financial Fragility." _American Economic Review Papers and Proceedings_ 99, no. 2 (2009): 584-588. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://economics.mit.edu/files/12601))
+Caballero, Ricardo J., and Arvind Krishnamurthy. "Global Imbalances and Financial Fragility." _American Economic Review Papers and Proceedings_ 99, no. 2 (2009): 584-588. ([PDF](https://economics.mit.edu/files/12601))
 
-Caballero, Ricardo J. "The Other Imbalance and the Financial Crisis." Paolo Baffi Lecture, Bank of Italy, December 10, 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://econ-www.mit.edu/files/4918))
+Caballero, Ricardo J. "The Other Imbalance and the Financial Crisis." Paolo Baffi Lecture, Bank of Italy, December 10, 2009. ([PDF](http://econ-www.mit.edu/files/4918))
 
 Bernanke, Benjamin, Carol Bertaut, Laurie Pounder DeMarco, and Steven Kamin. "[International Capital Flows and the Returns to Safe Assets in the United States, 2003-2007](http://www.federalreserve.gov/pubs/ifdp/2011/1014/ifdp1014.htm)." Board of Governors of the Federal Reserve System, International Finance Discussion Paper No. 1014, February 2011.
 
-Martin, Alberto, and Filippo Taddei. "International Capital Flows and Credit Market Imperfections: a Tale of Two Frictions." Centre for Economic Policy Research, Discussion Paper No. 8131, November 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.econ.upf.edu/~martin/2frictions.pdf))
+Martin, Alberto, and Filippo Taddei. "International Capital Flows and Credit Market Imperfections: a Tale of Two Frictions." Centre for Economic Policy Research, Discussion Paper No. 8131, November 2010. ([PDF](http://www.econ.upf.edu/~martin/2frictions.pdf))
 
 
 {{< tdclose >}}
@@ -196,7 +196,7 @@ Liquidity traps
 {{< tdopen >}}
 
 
-Krugman, Paul. "Thinking About the Liquidity Trap." _Journal of the Japanese and International Economies_ 14 (2000): 221-237. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.pdx.edu/~ito/krugman2000.pdf))
+Krugman, Paul. "Thinking About the Liquidity Trap." _Journal of the Japanese and International Economies_ 14 (2000): 221-237. ([PDF](http://web.pdx.edu/~ito/krugman2000.pdf))
 
 Svensson, Lars E. O. "[Escaping from a Liquidity Trap and Deflation: The Foolproof Way and Others](http://www.nber.org/papers/w10195)." NBER Working Paper No. 10195, December 2003.
 

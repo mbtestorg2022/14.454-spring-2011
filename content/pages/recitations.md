@@ -28,7 +28,7 @@ NOTES
 Debt contracts, renegotiation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_rec1))
+([PDF]({{< baseurl >}}/resources/mit14_454s11_rec1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +40,7 @@ Debt contracts, renegotiation
 Liquidity, bond markets, social optimum
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_rec2))
+([PDF]({{< baseurl >}}/resources/mit14_454s11_rec2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +52,7 @@ Liquidity, bond markets, social optimum
 Bubbles: model, equilibrium, portfolio decisions
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_rec3))
+([PDF]({{< baseurl >}}/resources/mit14_454s11_rec3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +64,7 @@ Bubbles: model, equilibrium, portfolio decisions
 Rational expectations equilibria, static and dynamic
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_rec4))
+([PDF]({{< baseurl >}}/resources/mit14_454s11_rec4))
 {{< tdclose >}}
 
 {{< trclose >}}

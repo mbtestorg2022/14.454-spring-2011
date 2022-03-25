@@ -28,10 +28,10 @@ SOLUTIONS
 Homework 1
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_hw1))
+([PDF]({{< baseurl >}}/resources/mit14_454s11_hw1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_hw1_sol))
+([PDF]({{< baseurl >}}/resources/mit14_454s11_hw1_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +40,7 @@ Homework 1
 Homework 2
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_hw2))
+([PDF]({{< baseurl >}}/resources/mit14_454s11_hw2))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -52,10 +52,10 @@ Homework 2
 Homework 3
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_hw3))
+([PDF]({{< baseurl >}}/resources/mit14_454s11_hw3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_hw3_sol))
+([PDF]({{< baseurl >}}/resources/mit14_454s11_hw3_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +92,7 @@ FILES
 2007
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit14_454s11_exam2007))
+([PDF]({{< baseurl >}}/resources/mit14_454s11_exam2007))
 {{< tdclose >}}
 
 {{< trclose >}}
